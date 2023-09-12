@@ -6,15 +6,15 @@ copy-paste the `src` folder
 
 There are 2 utility functions and 1 state exposed for the use
 
-# createEditor
+## createEditor
 
 This will return a `div` element with listeners attached to it, use it as your editor
 
-# updateEditor
+## updateEditor
 
 This will help in updating internal state of editor
 
-# editorState
+## editorState
 
 Immutable object, for reference
 
